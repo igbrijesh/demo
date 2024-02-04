@@ -1,2 +1,4 @@
 # demo
-this is the first project
+this is the first git repository.
+<br>
+author igbrijesh
