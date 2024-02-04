@@ -1,4 +1,4 @@
 # demo
-this is the first git repository.
+this is the first Git repository.
 <br>
-author igbrijesh
+author - igbrijesh
